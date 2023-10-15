@@ -13,9 +13,7 @@
     min-height: 100vh;
     background-image: url("./5172658.jpg");
     background-repeat: no-repeat;
-    background-size:100%;
-    /* filter: blur(3px); */
-    /* z-index: 1 ; */
+    background-size:100%; 
     padding: 10px;
 }
 
@@ -117,3 +115,8 @@ ul li span{
 ul li span:hover{
     background:#3215;
 }
+<<<<<<< Updated upstream
+=======
+
+
+>>>>>>> Stashed changes
